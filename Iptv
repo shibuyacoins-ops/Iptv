@@ -1,77 +1,80 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera
+
+# =========================
+# NEWS
+# =========================
+
+#EXTINF:-1 tvg-id="AlJazeera" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24
+
+#EXTINF:-1 tvg-id="France24Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
 https://www.youtube.com/c/FRANCE24Arabic/live
 
 # =========================
-# 📺 EXTRA TNT / FR
+# FR TV
 # =========================
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="TNT",TF1
+#EXTINF:-1 tvg-id="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="TNT",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 
-#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/France_4_2018.svg" group-title="TNT",France 4
+#EXTINF:-1 tvg-id="France4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/France_4_2018.svg" group-title="TNT",France 4
 http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_BFM_TV_%282019%29.png" group-title="News",BFM TV
+#EXTINF:-1 tvg-id="BFMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_BFM_TV_%282019%29.png" group-title="News",BFM TV
 https://bfmtvalive1-a.akamaihd.net/r8ef15893bf3d4c2db0105218bdfe87f4/eu-central-1/876450610001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/43/18._Gulli.png" group-title="Kids",Gulli
+#EXTINF:-1 tvg-id="Gulli" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/43/18._Gulli.png" group-title="Kids",Gulli
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 
-#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a9/6ter_2012.png" group-title="TNT",6ter
-# (link not available / unstable)
-
-#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/85/LCI.png" group-title="News",LCI
+#EXTINF:-1 tvg-id="LCI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/85/LCI.png" group-title="News",LCI
 https://sv0.data-stream.top/hls/lci.m3u8
 
 
 # =========================
-# ⚠️ TNTDIRECT (UNSTABLE)
+# TNT DIRECT
 # =========================
 
-#EXTINF:-1 tvg-id="TF1.fr" group-title="TNTDIRECT",TF1
+#EXTINF:-1 tvg-id="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="TNTDIRECT",TF1
 https://s13.tntendirect.com/tf1/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France2.fr" group-title="TNTDIRECT",France 2
+#EXTINF:-1 tvg-id="France2" group-title="TNTDIRECT",France 2
 https://s13.tntendirect.com/france2/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France3.fr" group-title="TNTDIRECT",France 3
+#EXTINF:-1 tvg-id="France3" group-title="TNTDIRECT",France 3
 https://s13.tntendirect.com/france3/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France5.fr" group-title="TNTDIRECT",France 5
+#EXTINF:-1 tvg-id="France5" group-title="TNTDIRECT",France 5
 https://s13.tntendirect.com/france5/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="M6.fr" group-title="TNTDIRECT",M6
+#EXTINF:-1 tvg-id="M6" group-title="TNTDIRECT",M6
 https://s13.tntendirect.com/m6/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="C8.fr" group-title="TNTDIRECT",C8
+#EXTINF:-1 tvg-id="C8" group-title="TNTDIRECT",C8
 https://s13.tntendirect.com/d8/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="W9.fr" group-title="TNTDIRECT",W9
+#EXTINF:-1 tvg-id="W9" group-title="TNTDIRECT",W9
 https://s13.tntendirect.com/w9/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TMC.fr" group-title="TNTDIRECT",TMC
+#EXTINF:-1 tvg-id="TMC" group-title="TNTDIRECT",TMC
 https://s13.tntendirect.com/tmc/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TFX.fr" group-title="TNTDIRECT",TFX
+#EXTINF:-1 tvg-id="TFX" group-title="TNTDIRECT",TFX
 https://s13.tntendirect.com/nt1/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NRJ12.fr" group-title="TNTDIRECT",NRJ 12
+#EXTINF:-1 tvg-id="NRJ12" group-title="TNTDIRECT",NRJ 12
 https://s13.tntendirect.com/nrj12/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CStar.fr" group-title="TNTDIRECT",CStar
+#EXTINF:-1 tvg-id="CStar" group-title="TNTDIRECT",CStar
 https://s13.tntendirect.com/d17/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" group-title="TNTDIRECT",TF1 Séries Films
+#EXTINF:-1 tvg-id="TF1SeriesFilms" group-title="TNTDIRECT",TF1 Séries Films
 https://s13.tntendirect.com/hd1/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LEquipe.fr" group-title="TNTDIRECT",L'Équipe
+#EXTINF:-1 tvg-id="LEquipe" group-title="TNTDIRECT",L'Équipe
 https://s13.tntendirect.com/lequipe21/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" group-title="TNTDIRECT",RMC Découverte
+#EXTINF:-1 tvg-id="RMCDecouverte" group-title="TNTDIRECT",RMC Découverte
 https://s13.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cherie25.fr" group-title="TNTDIRECT",Chérie 25
+#EXTINF:-1 tvg-id="Cherie25" group-title="TNTDIRECT",Chérie 25
 https://s13.tntendirect.com/cherie25/live/playlist.m3u8
