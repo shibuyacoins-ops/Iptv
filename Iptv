@@ -1,42 +1,9 @@
 #EXTM3U
-
-# ======================
-# 🇲🇦 MAROC OFFICIEL / NEWS
-# ======================
-
-#EXTINF:-1 group-title="Maroc",2M Maroc (Live)
-https://www.youtube.com/watch?v=7f8rJX2x9kE
-
-#EXTINF:-1 group-title="Maroc",Al Aoula Maroc (SNRT)
-https://www.youtube.com/watch?v=QK8r9v7p2mA
-
-#EXTINF:-1 group-title="Maroc",Arryadia Sport
-https://www.youtube.com/watch?v=Vd8m9k2xYtQ
-
-#EXTINF:-1 group-title="Maroc",Medi1 TV
-https://www.youtube.com/watch?v=1c9pQm8rTzA
-
-
-# ======================
-# 📰 NEWS ARABE HD
-# ======================
-
-#EXTINF:-1 group-title="News",Al Jazeera Arabic
-https://www.youtube.com/watch?v=bNyUyrR0PHo
-
-#EXTINF:-1 group-title="News",Al Arabiya
-https://www.youtube.com/watch?v=KQ0bqZy3g9Q
-
-#EXTINF:-1 group-title="News",Sky News Arabia
-https://www.youtube.com/watch?v=0s3c6g7kZ1Q
-
-
-# ======================
-# 🌍 INTERNATIONAL NEWS
-# ======================
-
-#EXTINF:-1 group-title="World News",France 24 Arabic
-https://www.youtube.com/watch?v=gCNeDWCI0vo
-
-#EXTINF:-1 group-title="World News",DW Arabic
-https://www.youtube.com/watch?v=8E6g9mK2pXw
+#EXTINF:-1 tvg-id="2M Maroc" tvg-name="2M Monde MA" tvg-logo="https://m.2m.ma/static/images/2m-logo-thumbnail.png" group-title="Maroc",2M Maroc
+http://r34mf95ef4.a5ge6t4sve79r.com/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="Al Aoula MA" tvg-name="Al Aoula MA" tvg-logo="https://raw.githubusercontent.com/3nakib/IPTV/master/icons/AlAoula.ma.png" group-title="Maroc",Al Aoula MA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Al Maghribia MA" tvg-name="Al Maghribia MA" tvg-logo="https://raw.githubusercontent.com/3nakib/IPTV/master/icons/AlMaghribia.ma.png" group-title="Maroc",Al Maghribia MA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Medi 1 TV" tvg-name="Medi 1 TV" tvg-logo="http://www.medi1tv.com/ar/img/logo2.png" group-title="Maroc",Medi 1 TV MA
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
