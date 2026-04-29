@@ -1,47 +1,30 @@
 #EXTM3U
 
-# ===== MAROC =====
-#EXTINF:-1 group-title="Maroc",Al Aoula
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula/hls_snrt/index.m3u8
+# --- MAROC (sources officielles / gratuites) ---
+#EXTINF:-1 group-title="Maroc",2M Live (officiel)
+https://www.2m.ma/live
 
-#EXTINF:-1 group-title="Maroc",Arryadia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arryadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Maroc",Al Aoula (SNRT)
+https://www.snrtlive.ma/aloula
 
-#EXTINF:-1 group-title="Maroc",Athaqafia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/athaqafia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Maroc",Medi1 TV
+https://www.medi1tv.com/live
 
-#EXTINF:-1 group-title="Maroc",Assadissa
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
-
-#EXTINF:-1 group-title="Maroc",Al Maghribia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-
-#EXTINF:-1 group-title="Maroc",Tamazight
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Maroc",Arryadia Sport
+https://www.snrtlive.ma/arryadia
 
 
-# ===== ALGÉRIE =====
-# (pas de flux direct stable gratuit)
-#EXTINF:-1 group-title="Algérie",ENTV (Site officiel)
-https://www.entv.dz/
-
-
-# ===== FRANCE (ARABE) =====
-#EXTINF:-1 group-title="France",France 24 Arabic
-https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master.m3u8
-
-
-# ===== NEWS ARABE =====
+# --- NEWS ARABE (HD via YouTube Live) ---
 #EXTINF:-1 group-title="News",Al Jazeera Arabic
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+https://www.youtube.com/watch?v=bNyUyrR0PHo
 
 #EXTINF:-1 group-title="News",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+https://www.youtube.com/watch?v=KQ0bqZy3g9Q
 
 #EXTINF:-1 group-title="News",Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna.m3u8
+https://www.youtube.com/watch?v=0s3c6g7kZ1Q
 
 
-# ===== SPORT =====
-#EXTINF:-1 group-title="Sport",Arryadia (Maroc)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arryadia/hls_snrt/index.m3u8
+# --- INFOS / INTERNATIONALE ---
+#EXTINF:-1 group-title="World News",France 24 Arabic
+https://www.youtube.com/watch?v=gCNeDWCI0vo
