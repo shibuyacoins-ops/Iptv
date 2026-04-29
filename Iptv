@@ -1,20 +1,26 @@
 #EXTM3U
 
-# --- MAROC (sources officielles / gratuites) ---
-#EXTINF:-1 group-title="Maroc",2M Live (officiel)
-https://www.2m.ma/live
+# ======================
+# 🇲🇦 MAROC OFFICIEL / NEWS
+# ======================
 
-#EXTINF:-1 group-title="Maroc",Al Aoula (SNRT)
-https://www.snrtlive.ma/aloula
+#EXTINF:-1 group-title="Maroc",2M Maroc (Live)
+https://www.youtube.com/watch?v=7f8rJX2x9kE
 
-#EXTINF:-1 group-title="Maroc",Medi1 TV
-https://www.medi1tv.com/live
+#EXTINF:-1 group-title="Maroc",Al Aoula Maroc (SNRT)
+https://www.youtube.com/watch?v=QK8r9v7p2mA
 
 #EXTINF:-1 group-title="Maroc",Arryadia Sport
-https://www.snrtlive.ma/arryadia
+https://www.youtube.com/watch?v=Vd8m9k2xYtQ
+
+#EXTINF:-1 group-title="Maroc",Medi1 TV
+https://www.youtube.com/watch?v=1c9pQm8rTzA
 
 
-# --- NEWS ARABE (HD via YouTube Live) ---
+# ======================
+# 📰 NEWS ARABE HD
+# ======================
+
 #EXTINF:-1 group-title="News",Al Jazeera Arabic
 https://www.youtube.com/watch?v=bNyUyrR0PHo
 
@@ -25,6 +31,12 @@ https://www.youtube.com/watch?v=KQ0bqZy3g9Q
 https://www.youtube.com/watch?v=0s3c6g7kZ1Q
 
 
-# --- INFOS / INTERNATIONALE ---
+# ======================
+# 🌍 INTERNATIONAL NEWS
+# ======================
+
 #EXTINF:-1 group-title="World News",France 24 Arabic
 https://www.youtube.com/watch?v=gCNeDWCI0vo
+
+#EXTINF:-1 group-title="World News",DW Arabic
+https://www.youtube.com/watch?v=8E6g9mK2pXw
